@@ -1,1 +1,4 @@
-# Token-Wallet---Rust
+# Token-Wallet--Rust
+CLI application
+#### Security
+#### Credibility
